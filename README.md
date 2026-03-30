@@ -40,6 +40,7 @@ My approach combines robust technical solutions with the human elements of growt
 ![Lambda](https://img.shields.io/badge/LAMBDA-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-527FFF?style=flat-square&logo=amazon-iam&logoColor=white)
 ![ELB](https://img.shields.io/badge/ELB-FF9900?style=flat-square&logo=amazon-elb&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white)
 
 ---
 
